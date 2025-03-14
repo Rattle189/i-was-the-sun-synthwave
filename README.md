@@ -7,6 +7,11 @@ This mod also supports [Betabound!](https://steamcommunity.com/workshop/filedeta
 
 ## Recommended mods to go with this:
 For those using normal Starbound, [[Discontinued] NEONPUNK Title screen](https://steamcommunity.com/sharedfiles/filedetails/?id=1986625967)
+
 For those using OpenStarbound, [NEONPUNK Title screen[oSB]](https://steamcommunity.com/sharedfiles/filedetails/?id=3359876550)
+
 For a pretty cool HUD mod that supports [bk3k's](https://steamcommunity.com/sharedfiles/filedetails/?id=882900100) and [Carlucci's](https://steamcommunity.com/sharedfiles/filedetails/?id=2053251870) inventory mods, [Hyper Light Drifter HUD](https://steamcommunity.com/sharedfiles/filedetails/?id=1909127909)
+
 For those who don't want to use [Betabound!](https://steamcommunity.com/workshop/filedetails/?id=2010607826) and just want the ability to play it anywhere, [Music Radios!](https://steamcommunity.com/sharedfiles/filedetails/?id=2787383493)
+
+[Steam Workshop version](https://steamcommunity.com/sharedfiles/filedetails/?id=3441107125)
