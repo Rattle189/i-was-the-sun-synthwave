@@ -1,0 +1,12 @@
+[
+	{
+		"op": "add",
+		"path": "/music/day/tracks",
+		"value": [ "/music/i-was-the-sun-synthwave.ogg" ]
+	},
+	{
+		"op": "add",
+		"path": "/music/night/tracks",
+		"value": [ "/music/i-was-the-sun-synthwave.ogg" ]
+	}
+]

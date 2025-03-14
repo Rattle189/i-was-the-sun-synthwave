@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/collectables/i-was-the-sun-synthwave",
+    "value": {
+      "icon": "/music/i-was-the-sun-synthwave.ogg",
+      "title": "I was the Sun ^#e42fae;(80's Synthwave)",
+      "description": "Patchwork Demon"
+    }
+  }
+]
